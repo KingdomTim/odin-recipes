@@ -1,0 +1,35 @@
+h1{
+color: red;
+text-align: center;
+background-color: wheat
+}
+
+.chick{
+    color: rgb(255, 126, 126);
+    background-color: darkslateblue;
+    font-size: 20px
+}
+
+.bak{
+    color: orange;
+    background-color:darkmagenta;
+    font-size: 20px;
+    text-align: center;
+}
+
+.prot{
+    color: violet;
+    background-color:darkgreen;
+    font-size: 20px;
+    text-align: end;
+}
+
+.cook{
+    height: auto;
+    width: 934px;
+}
+
+
+*{
+    font-family: 'courier new',verdana, sans-serif
+}
