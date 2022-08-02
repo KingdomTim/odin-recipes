@@ -33,3 +33,12 @@ background-color: wheat
 *{
     font-family: 'courier new',verdana, sans-serif
 }
+
+.github {
+    width: 20px;
+    height: 20px;
+}
+
+.github:hover {
+    transform: scale(1.1)
+}
